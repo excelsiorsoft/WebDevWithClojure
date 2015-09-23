@@ -5,7 +5,9 @@ A Clojure library designed to ... well, that part is up to you.
 ## Usage
 
 create myapp project     >>lein new myapp; cd myapp
+
 edit project.clj, add:    :main myapp.core/foo
+
 run:                     >>lein run First
 
 
