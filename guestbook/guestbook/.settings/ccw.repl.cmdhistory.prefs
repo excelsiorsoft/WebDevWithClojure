@@ -1,0 +1,2 @@
+cmdhistory=["(use 'guestbook.repl)" "(start-server)" "(use 'guestbook.repl)" "(start-server)" "(use 'guestbook.repl)" "(start-server)" "(stop-server)" "(start-server)" "(use 'guestbook.repl)" "(ns guestbook.repl)" "(start-server)" "(ns guestbook.repl)" "(use 'guestbook.repl)" "()" "(+ 2 2 )" "(foo \\"Clojure\\")" "(print \\"Clojure\\")" "(use 'guestbook.repl)" "(start-server)"]
+eclipse.preferences.version=1
