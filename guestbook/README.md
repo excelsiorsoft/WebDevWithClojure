@@ -17,12 +17,11 @@ To start a web server for the application, run:
 ## Running In Eclipse:
     
 ;; Clojure 1.6.0
-=> (use 'guestbook.repl)  
 
+=> (use 'guestbook.repl)  
 nil  
 
 => (require :reload 'guestbook.repl), see http://stackoverflow.com/questions/20828985/compilerexception-java-lang-runtimeexception-unable-to-resolve-symbol-cloju for explanation  
-
 nil  
 
 => (start-server)  
@@ -30,7 +29,6 @@ nil
 guestbook is starting  
 Started server on port 8080  
 You can view the site at http://localhost:8080  
-
 nil
 
 ## License
