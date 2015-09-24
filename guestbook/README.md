@@ -17,6 +17,7 @@ To start a web server for the application, run:
 ## Running In Eclipse:
     
 ;; Clojure 1.6.0
+
 => (use 'guestbook.repl)  
 
 nil  
