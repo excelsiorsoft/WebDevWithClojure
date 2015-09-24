@@ -1,5 +1,7 @@
 /target
 /lib
+/bin
+/.settings/
 /classes
 /checkouts
 pom.xml
