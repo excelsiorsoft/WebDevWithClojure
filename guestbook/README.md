@@ -21,8 +21,9 @@ To start a web server for the application, run:
 	nil  
 
 
-see http://stackoverflow.com/questions/20828985/compilerexception-java-lang-runtimeexception-unable-to-resolve-symbol-cloju for explanation   
-	> (require :reload 'guestbook.repl) 
+see http://stackoverflow.com/questions/20828985/compilerexception-java-lang-runtimeexception-unable-to-resolve-symbol-cloju for explanation of why to use require  
+
+	> (require :reload 'guestbook.repl)  
 	nil  
 
 	> (start-server)  
