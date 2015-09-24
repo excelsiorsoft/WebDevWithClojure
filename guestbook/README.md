@@ -29,6 +29,10 @@ nil
 guestbook is starting  
 Started server on port 8080  
 You can view the site at http://localhost:8080  
+<<<<<<< HEAD
+=======
+
+>>>>>>> branch 'master' of https://github.com/excelsiorsoft/WebDevWithClojure.git
 nil
 
 ## License
