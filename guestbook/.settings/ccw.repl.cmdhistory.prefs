@@ -1,2 +1,2 @@
-cmdhistory=["(ns guestbook.repl)" "(start-server)" "(ns guestbook.repl)" "(start-server)" "(require \:reload guestbook.repl)" "(require \:reload 'guestbook.repl)" "(start-server)" "(use 'guestbook.repl)" "(require \:reload 'guestbook.repl)" "(start-server)"]
+cmdhistory=["(ns guestbook.repl)" "(start-server)" "(ns guestbook.repl)" "(start-server)" "(require \:reload guestbook.repl)" "(require \:reload 'guestbook.repl)" "(start-server)" "(use 'guestbook.repl)" "(require \:reload 'guestbook.repl)" "(start-server)" "(use guestbook.repl)" "(require \:reload 'guestbook.repl)" "(start-server)" "(stop-server)" "(start-server)" "(require \:reload 'guestbook.repl)" "(stop-server)" "(start-server)"]
 eclipse.preferences.version=1
